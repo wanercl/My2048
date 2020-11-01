@@ -1,0 +1,14 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="fontFamily">@font/clearsans</item>
+    </style>
+    <style name="popanim">
+        <item name="android:windowEnterAnimation">@anim/anim_popin</item>
+        <item name="android:windowExitAnimation">@anim/anim_popout</item>
+    </style>
+</resources>

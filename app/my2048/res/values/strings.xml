@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My2048</string>
+    <string name="newgame_4">4×4（新游戏）</string>
+    <string name="newgame_5">5×5（新游戏）</string>
+    <string name="newgame_6">6×6（新游戏）</string>
+    <string name="newgame_7">7×7（新游戏）</string>
+    <string name="newgame_8">8×8（新游戏）</string>
+    <string name="contgame_4">4×4（继续游戏）</string>
+    <string name="contgame_5">5×5（继续游戏）</string>
+    <string name="contgame_6">6×6（继续游戏）</string>
+    <string name="contgame_7">7×7（继续游戏）</string>
+    <string name="contgame_8">8×8（继续游戏）</string>
+    <string name="muteoff">游戏音效（开启）</string>
+    <string name="muteon">游戏音效（关闭）</string>
+    <string name="gamebar_muteoff">音效：已开启</string>
+    <string name="gamebar_muteon">音效：已关闭</string>
+</resources>

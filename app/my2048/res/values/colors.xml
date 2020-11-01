@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFBD85</color>
+    <color name="colorPrimaryDark">#F2B179</color>
+    <color name="colorAccent">#F2B179</color>
+    <color name="bg_gamelayout">#BBADA0</color>
+    <color name="color_2">#EEE4DA</color>
+    <color name="color_4">#ECE0CA</color>
+    <color name="color_8">#F2B179</color>
+    <color name="color_16">#EC8D54</color>
+    <color name="color_32">#F67C5F</color>
+    <color name="color_64">#EA5937</color>
+    <color name="color_128">#F3D86B</color>
+    <color name="color_default">#F1D04B</color>
+    <color name="color_blockbg">#CCC0B4</color>
+    <color name="color_Trans">#00000000</color>
+</resources>
